@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <name>initialpose_publisher</name>
+  <version>0.1.0</version>
+  <description>Publishes the /initialpose topic from base_link</description>
+
+  <maintainer email="mizuno.naoki@rm.is.tohoku.ac.jp">Naoki Mizuno</maintainer>
+
+  <license>MIT</license>
+
+  <url type="website">https://github.com/tado-aev/initialpose_publisher</url>
+
+  <author>Naoki Mizuno</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>tf</run_depend>
+</package>
