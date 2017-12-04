@@ -1,6 +1,6 @@
 # initialpose_publisher
 
-Publeshes the /initiapose (or any other topic name specified) by getting the
+Publishes the /initiapose (or any other topic name specified) by getting the
 pose from `map` to `base_link` transform.
 
 This script was written to provide the starting position for the local
